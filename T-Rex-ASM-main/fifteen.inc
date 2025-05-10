@@ -152,6 +152,40 @@ cacti2:
     DB 00h,00h,0ch,09h,09h,09h,24h,24h,24h,24h,09h,09h,00h,00h,00h
     DB 00h,00h,00h,00h,09h,09h,09h,09h,09h,09h,00h,00h,00h,00h,00h
 
+bird:
+    DB 00h,00h,00h,00h,0bh,0bh,0bh,00h,00h,00h,00h,00h,00h,00h,00h
+    DB 00h,00h,00h,0bh,01h,01h,01h,0bh,00h,00h,00h,00h,00h,00h,00h
+    DB 00h,00h,0bh,01h,01h,01h,01h,01h,0bh,00h,00h,0bh,0bh,0bh,00h
+    DB 00h,0bh,01h,04h,04h,04h,04h,01h,01h,0bh,0bh,01h,01h,01h,0bh
+    DB 00h,0bh,01h,04h,0bh,04h,04h,01h,01h,0bh,01h,01h,01h,01h,0bh
+    DB 0bh,20h,20h,04h,04h,04h,04h,01h,01h,01h,01h,01h,01h,01h,0bh
+    DB 00h,0bh,0bh,01h,04h,04h,04h,01h,01h,01h,01h,01h,01h,01h,0bh
+    DB 00h,00h,00h,0bh,01h,01h,01h,01h,01h,01h,01h,01h,01h,01h,0bh
+    DB 00h,00h,00h,0bh,04h,04h,04h,04h,01h,01h,01h,01h,01h,0bh,00h
+    DB 00h,00h,00h,0bh,04h,04h,04h,04h,04h,01h,01h,01h,0bh,00h,00h
+    DB 00h,00h,00h,00h,0bh,04h,04h,04h,04h,01h,01h,01h,01h,0bh,00h
+    DB 00h,00h,00h,00h,00h,0bh,04h,04h,04h,01h,01h,01h,01h,01h,0bh
+    DB 00h,00h,00h,00h,00h,00h,0bh,0bh,0bh,0bh,01h,01h,01h,0bh,00h
+    DB 00h,00h,00h,00h,00h,00h,00h,00h,00h,00h,0bh,01h,0bh,00h,00h
+    DB 00h,00h,00h,00h,00h,00h,00h,00h,00h,00h,00h,0bh,00h,00h,00h
+
+potion:
+    DB 00h,00h,00h,00h,00h,0bh,0bh,0bh,0bh,00h,00h,00h,00h,00h,00h
+    DB 00h,00h,00h,00h,0bh,0dh,0dh,0dh,0dh,0bh,00h,00h,00h,00h,00h
+    DB 00h,00h,00h,00h,0bh,0dh,0dh,0dh,0dh,0bh,00h,00h,00h,00h,00h
+    DB 00h,00h,00h,00h,00h,0bh,0ch,0ch,0bh,00h,00h,00h,00h,00h,00h
+    DB 00h,00h,00h,00h,00h,0bh,0ch,0ch,0bh,00h,00h,00h,00h,00h,00h
+    DB 00h,00h,00h,00h,00h,0bh,0ch,0ch,0bh,00h,00h,00h,00h,00h,00h
+    DB 00h,00h,00h,00h,0bh,0ch,0ch,0ch,0ch,0bh,00h,00h,00h,00h,00h
+    DB 00h,00h,00h,0bh,23h,23h,23h,23h,23h,23h,0bh,00h,00h,00h,00h
+    DB 00h,00h,0bh,23h,23h,23h,04h,23h,23h,23h,23h,0bh,00h,00h,00h
+    DB 00h,00h,0bh,23h,23h,04h,23h,23h,23h,23h,23h,0bh,00h,00h,00h
+    DB 00h,00h,0bh,23h,23h,04h,23h,23h,23h,23h,23h,0bh,00h,00h,00h
+    DB 00h,00h,0bh,23h,23h,23h,23h,23h,23h,23h,23h,0bh,00h,00h,00h
+    DB 00h,00h,00h,0bh,23h,23h,23h,23h,23h,23h,0bh,00h,00h,00h,00h
+    DB 00h,00h,00h,00h,0bh,23h,23h,23h,23h,0bh,00h,00h,00h,00h,00h
+    DB 00h,00h,00h,00h,00h,0bh,0bh,0bh,0bh,00h,00h,00h,00h,00h,00h
+
 bigg:
     DB 00h, 00h, 0bh, 0bh, 0bh, 0bh, 0bh, 0bh, 0bh, 0bh, 0bh, 0bh, 00h, 00h, 00h, 00h, 00h, 00h, 00h
     DB 00h, 00h, 0bh, 4fh, 4fh, 4fh, 4fh, 4fh, 4fh, 4fh, 20h, 0bh, 0bh, 00h, 00h, 00h, 00h, 00h, 00h
