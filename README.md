@@ -45,7 +45,7 @@ Take control of Rex the T-Rex and journey through vast lands and desert, jumping
 - Tarino, Janna Lyka
 - Sanchez, Venus 
 
-### Version 1 Github Repository [Link](https://www.dosbox.com/download.php?main=1)
+### T-Rex Version 1 Github Repository [Link](https://www.dosbox.com/download.php?main=1)
 
 <br>
 
