@@ -45,8 +45,8 @@ Take control of Rex the T-Rex and journey through vast lands and desert, jumping
 - Tarino, Janna Lyka
 - Sanchez, Venus 
 
-### Version 1 Github Repository [link.]([https://www.dosbox.com/download.php?main=1](https://github.com/IEMDomain04/T-Rex-ASM?fbclid=IwY2xjawKVkltleHRuA2FlbQIxMQABHkHmirDgCkoyRpgKkHLTJPsj_KPmZmbsC-Yq_UWVbEbPa5I2RR1F85915wPn_aem_QolHAxtqVRfVe0x89D8IxA))
+### Version 1 Github Repository [Link](https://www.dosbox.com/download.php?main=1)
 
 <br>
 
-Scoreboard File I/O Algorithm from [Harley](https://github.com/gekiiMei)
+Scoreboard File I/O Algorithm from [Harley]([https://github.com/gekiiMei](https://github.com/IEMDomain04/T-Rex-ASM?fbclid=IwY2xjawKVkltleHRuA2FlbQIxMQABHkHmirDgCkoyRpgKkHLTJPsj_KPmZmbsC-Yq_UWVbEbPa5I2RR1F85915wPn_aem_QolHAxtqVRfVe0x89D8IxA))
