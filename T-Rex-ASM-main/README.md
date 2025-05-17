@@ -11,7 +11,7 @@
 - Tarino, Janna Lyka
 - Sanchez, Venus Aira
 
-# **T-Rex**
+# **T-Rex Version 2**
 Play as Rex the T-Rex and navigate through the lands while avoiding any obstacles by jumping above them. Good luck!
 
 # Infos:
