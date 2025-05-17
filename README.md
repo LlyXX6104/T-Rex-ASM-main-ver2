@@ -12,7 +12,7 @@
 - Valencia, Jim Rafael D.
 
 # **T-Rex Version 2**
-Take control of Rex the T-Rex and journey through vast lands and desert, jumping over obstacles to stay safe. Good Luck!
+Take control of Rex the T-Rex and journey through vast lands and desert, jumping over obstacles to stay alive. Good Luck!
 
 # **Enhancement**
 - Flying Bird Obstacle
